@@ -1,10 +1,10 @@
 {
   "projects": [
     {
-      "name": "Portfolio Website",
-      "liveUrl": "https://portfolio-demo.vercel.app",
-      "repoUrl": "https://github.com/username/portfolio",
-      "description": "Personal portfolio built with Next.js and TailwindCSS"
+      "name": "DevScribe-AI",
+      "liveUrl": "https://devscribe-ai.vercel.app",
+      "repoUrl": "https://github.com/dev-rashedin/devScribe-ai",
+      "description": "AI Service Provider built with React 19 and Nebius Studio"
     },
     {
       "name": "AI Analyzer",

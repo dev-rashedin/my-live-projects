@@ -7,9 +7,9 @@
 
 ## 📂 Projects
 
-| Name                  | Live URL                                   | GitHub Repo                                         | Description                                               |
-|-----------------------|--------------------------------------------|----------------------------------------------------|-----------------------------------------------------------|
-| Portfolio Website     | [Live](https://portfolio-demo.vercel.app)  | [Repo](https://github.com/username/portfolio)      | Personal portfolio built with Next.js and TailwindCSS     |
+| Name              | Live URL                                  | GitHub Repo                                       | Description                          |
+|-------------------|:-----------------------------------------:|:-------------------------------------------------:|--------------------------------------|
+| DevScribe-AI     | [Live](https://devscribe-ai.vercel.app)  | [Repo](https://github.com/dev-rashedin/devScribe-ai)      | AI Service Provider built with React 19 and Nebius Studio    |
 | AI Analyzer           | [Live](https://ai-analyzer.netlify.app)    | [Repo](https://github.com/username/ai-analyzer)    | Tool to analyze and summarize code using AI               |
 | Blog Platform         | [Live](https://blog-demo.vercel.app)       | [Repo](https://github.com/username/blog-platform)  | Full-stack blog with Markdown support                     |
 | Task Manager          | [Live](https://task-manager.netlify.app)   | [Repo](https://github.com/username/task-manager)   | Kanban-style task management app                          |
