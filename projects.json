@@ -1,0 +1,124 @@
+{
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "liveUrl": "https://portfolio-demo.vercel.app",
+      "repoUrl": "https://github.com/username/portfolio",
+      "description": "Personal portfolio built with Next.js and TailwindCSS"
+    },
+    {
+      "name": "AI Analyzer",
+      "liveUrl": "https://ai-analyzer.netlify.app",
+      "repoUrl": "https://github.com/username/ai-analyzer",
+      "description": "Tool to analyze and summarize code using AI"
+    },
+    {
+      "name": "Blog Platform",
+      "liveUrl": "https://blog-demo.vercel.app",
+      "repoUrl": "https://github.com/username/blog-platform",
+      "description": "Full-stack blog with Markdown support"
+    },
+    {
+      "name": "Task Manager",
+      "liveUrl": "https://task-manager.netlify.app",
+      "repoUrl": "https://github.com/username/task-manager",
+      "description": "Kanban-style task management app"
+    },
+    {
+      "name": "Chat App",
+      "liveUrl": "https://chat-demo.vercel.app",
+      "repoUrl": "https://github.com/username/chat-app",
+      "description": "Real-time chat app with WebSockets"
+    },
+    {
+      "name": "E-Commerce Store",
+      "liveUrl": "https://store-demo.vercel.app",
+      "repoUrl": "https://github.com/username/ecommerce",
+      "description": "Online shop with Stripe payments"
+    },
+    {
+      "name": "Weather Dashboard",
+      "liveUrl": "https://weather-demo.netlify.app",
+      "repoUrl": "https://github.com/username/weather-app",
+      "description": "Weather forecast app using OpenWeather API"
+    },
+    {
+      "name": "Recipe Finder",
+      "liveUrl": "https://recipes-demo.vercel.app",
+      "repoUrl": "https://github.com/username/recipe-finder",
+      "description": "Search recipes by ingredients"
+    },
+    {
+      "name": "URL Shortener",
+      "liveUrl": "https://short-url-demo.netlify.app",
+      "repoUrl": "https://github.com/username/url-shortener",
+      "description": "Shorten and manage URLs with analytics"
+    },
+    {
+      "name": "Notes App",
+      "liveUrl": "https://notes-demo.vercel.app",
+      "repoUrl": "https://github.com/username/notes-app",
+      "description": "Markdown notes with local storage"
+    },
+    {
+      "name": "Finance Tracker",
+      "liveUrl": "https://finance-demo.vercel.app",
+      "repoUrl": "https://github.com/username/finance-tracker",
+      "description": "Track expenses and income with charts"
+    },
+    {
+      "name": "Movie Explorer",
+      "liveUrl": "https://movies-demo.vercel.app",
+      "repoUrl": "https://github.com/username/movie-explorer",
+      "description": "Browse and search movies from TMDB API"
+    },
+    {
+      "name": "Quiz App",
+      "liveUrl": "https://quiz-demo.netlify.app",
+      "repoUrl": "https://github.com/username/quiz-app",
+      "description": "Interactive quiz game with leaderboard"
+    },
+    {
+      "name": "Music Player",
+      "liveUrl": "https://music-demo.vercel.app",
+      "repoUrl": "https://github.com/username/music-player",
+      "description": "Web music player with playlists"
+    },
+    {
+      "name": "Fitness Tracker",
+      "liveUrl": "https://fitness-demo.netlify.app",
+      "repoUrl": "https://github.com/username/fitness-tracker",
+      "description": "Track workouts and fitness goals"
+    },
+    {
+      "name": "Portfolio CMS",
+      "liveUrl": "https://cms-demo.vercel.app",
+      "repoUrl": "https://github.com/username/portfolio-cms",
+      "description": "Headless CMS for managing portfolio projects"
+    },
+    {
+      "name": "Collaboration Board",
+      "liveUrl": "https://board-demo.vercel.app",
+      "repoUrl": "https://github.com/username/collab-board",
+      "description": "Real-time collaboration whiteboard"
+    },
+    {
+      "name": "Markdown Editor",
+      "liveUrl": "https://editor-demo.netlify.app",
+      "repoUrl": "https://github.com/username/markdown-editor",
+      "description": "Rich markdown editor with preview"
+    },
+    {
+      "name": "Job Board",
+      "liveUrl": "https://jobs-demo.vercel.app",
+      "repoUrl": "https://github.com/username/job-board",
+      "description": "Job listings app with filters and search"
+    },
+    {
+      "name": "Travel Planner",
+      "liveUrl": "https://travel-demo.vercel.app",
+      "repoUrl": "https://github.com/username/travel-planner",
+      "description": "Plan trips with itinerary and maps integration"
+    }
+  ]
+}
