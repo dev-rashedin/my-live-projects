@@ -7,16 +7,16 @@
       "description": "AI Service Provider built with React 19 and Nebius Studio"
     },
     {
-      "name": "AI Analyzer",
-      "liveUrl": "https://ai-analyzer.netlify.app",
-      "repoUrl": "https://github.com/username/ai-analyzer",
-      "description": "Tool to analyze and summarize code using AI"
+      "name": "Tech Insight",
+      "liveUrl": "https://tech-insights-d2159.web.app",
+      "repoUrl": "https://github.com/dev-rashedin/techInsights-Project",
+      "description": "A Tech News platform built using MERN Stack"
     },
     {
-      "name": "Blog Platform",
-      "liveUrl": "https://blog-demo.vercel.app",
-      "repoUrl": "https://github.com/username/blog-platform",
-      "description": "Full-stack blog with Markdown support"
+      "name": "ByteBlog ",
+      "liveUrl": "https://byteblog-da679.web.app",
+      "repoUrl": "https://github.com/dev-rashedin/ByteBlog-Client-Side",
+      "description": "Tech related blog website built using MERN Stack"
     },
     {
       "name": "Task Manager",
