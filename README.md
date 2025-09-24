@@ -12,8 +12,8 @@
 | DevScribe-AI     | [Live](https://devscribe-ai.vercel.app)  | [Repo](https://github.com/dev-rashedin/devScribe-ai)      | AI Service Provider built with React 19 and Nebius Studio    |
 | Tech Insight           | [Live](https://tech-insights-d2159.web.app/)    | [Repo](https://github.com/dev-rashedin/techInsights-Project)    | A Tech News platform built using MERN Stack               |
 | ByteBlog         | [Live](https://byteblog-da679.web.app)       | [Repo](https://github.com/dev-rashedin/ByteBlog-Client-Side)  | Tech related blog website built using MERN Stack                     |
-| Task Manager          | [Live](https://task-manager.netlify.app)   | [Repo](https://github.com/username/task-manager)   | Kanban-style task management app                          |
-| Chat App              | [Live](https://chat-demo.vercel.app)       | [Repo](https://github.com/username/chat-app)       | Real-time chat app with WebSockets                        |
+| DriveSpace          | [Live](https://drivespace.vercel.app)   | [Repo](https://github.com/dev-rashedin/DriveSpace)   | full-stack cloud storage app with Next.js and Appwrite. Secure file upload and management.                          |
+| SuiteTrack              | [Live](https://suite-track.vercel.app)       | [Repo](https://github.com/dev-rashedin/SuiteTrack-Project)       | A hotel management platform built using Next.js. A Group Project of 5                        |
 | E-Commerce Store      | [Live](https://store-demo.vercel.app)      | [Repo](https://github.com/username/ecommerce)      | Online shop with Stripe payments                          |
 | Weather Dashboard     | [Live](https://weather-demo.netlify.app)   | [Repo](https://github.com/username/weather-app)    | Weather forecast app using OpenWeather API                |
 | Recipe Finder         | [Live](https://recipes-demo.vercel.app)    | [Repo](https://github.com/username/recipe-finder)  | Search recipes by ingredients                             |

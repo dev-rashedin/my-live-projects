@@ -19,16 +19,16 @@
       "description": "Tech related blog website built using MERN Stack"
     },
     {
-      "name": "Task Manager",
-      "liveUrl": "https://task-manager.netlify.app",
-      "repoUrl": "https://github.com/username/task-manager",
-      "description": "Kanban-style task management app"
+      "name": "DriveSpace",
+      "liveUrl": "https://drivespace.vercel.app",
+      "repoUrl": "https://github.com/dev-rashedin/DriveSpace",
+      "description": "full-stack cloud storage app with Next.js and Appwrite. Secure file upload and management."
     },
     {
-      "name": "Chat App",
-      "liveUrl": "https://chat-demo.vercel.app",
-      "repoUrl": "https://github.com/username/chat-app",
-      "description": "Real-time chat app with WebSockets"
+      "name": "SuiteTrack",
+      "liveUrl": "https://suite-track.vercel.app",
+      "repoUrl": "https://github.com/dev-rashedin/SuiteTrack-Project",
+      "description": "A hotel management platform built using Next.js. A Group Project of 5"
     },
     {
       "name": "E-Commerce Store",
