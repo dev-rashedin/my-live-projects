@@ -31,10 +31,10 @@
       "description": "A hotel management platform built using Next.js. A Group Project of 5"
     },
     {
-      "name": "E-Commerce Store",
-      "liveUrl": "https://store-demo.vercel.app",
-      "repoUrl": "https://github.com/username/ecommerce",
-      "description": "Online shop with Stripe payments"
+      "name": "Craft Canvas",
+      "liveUrl": "https://a10-assignment-project.web.app",
+      "repoUrl": "https://github.com/dev-rashedin/A10-Craft-Canvas-Client",
+      "description": "An art and craft website built with the MERN Stack"
     },
     {
       "name": "Weather Dashboard",
