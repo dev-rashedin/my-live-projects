@@ -15,7 +15,7 @@
 | DriveSpace          | [Live](https://drivespace.vercel.app)   | [Repo](https://github.com/dev-rashedin/DriveSpace)   | full-stack cloud storage app with Next.js and Appwrite. Secure file upload and management.                          |
 | SuiteTrack              | [Live](https://suite-track.vercel.app)       | [Repo](https://github.com/dev-rashedin/SuiteTrack-Project)       | A hotel management platform built using Next.js. A Group Project of 5                        |
 | Craft Canvas      | [Live](https://a10-assignment-project.web.app)      | [Repo](https://github.com/dev-rashedin/A10-Craft-Canvas-Client)      | An art and craft website built with the MERN Stack                          |
-| Weather Dashboard     | [Live](https://weather-demo.netlify.app)   | [Repo](https://github.com/username/weather-app)    | Weather forecast app using OpenWeather API                |
+| Relux.com     | [Live](https://a9-real-estate-9f975.web.app)   | [Repo](https://github.com/dev-rashedin/RealState-Assignment-A9)    | A simple real estate website built with React and Firebase                |
 | Recipe Finder         | [Live](https://recipes-demo.vercel.app)    | [Repo](https://github.com/username/recipe-finder)  | Search recipes by ingredients                             |
 | URL Shortener         | [Live](https://short-url-demo.netlify.app) | [Repo](https://github.com/username/url-shortener)  | Shorten and manage URLs with analytics                    |
 | Notes App             | [Live](https://notes-demo.vercel.app)      | [Repo](https://github.com/username/notes-app)      | Markdown notes with local storage                         |
