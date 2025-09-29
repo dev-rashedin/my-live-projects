@@ -43,82 +43,10 @@
       "description": "A simple real estate website built with React and Firebase"
     },
     {
-      "name": "Recipe Finder",
-      "liveUrl": "https://recipes-demo.vercel.app",
-      "repoUrl": "https://github.com/username/recipe-finder",
-      "description": "Search recipes by ingredients"
-    },
-    {
-      "name": "URL Shortener",
-      "liveUrl": "https://short-url-demo.netlify.app",
-      "repoUrl": "https://github.com/username/url-shortener",
-      "description": "Shorten and manage URLs with analytics"
-    },
-    {
-      "name": "Notes App",
-      "liveUrl": "https://notes-demo.vercel.app",
-      "repoUrl": "https://github.com/username/notes-app",
-      "description": "Markdown notes with local storage"
-    },
-    {
-      "name": "Finance Tracker",
-      "liveUrl": "https://finance-demo.vercel.app",
-      "repoUrl": "https://github.com/username/finance-tracker",
-      "description": "Track expenses and income with charts"
-    },
-    {
-      "name": "Movie Explorer",
-      "liveUrl": "https://movies-demo.vercel.app",
-      "repoUrl": "https://github.com/username/movie-explorer",
-      "description": "Browse and search movies from TMDB API"
-    },
-    {
-      "name": "Quiz App",
-      "liveUrl": "https://quiz-demo.netlify.app",
-      "repoUrl": "https://github.com/username/quiz-app",
-      "description": "Interactive quiz game with leaderboard"
-    },
-    {
-      "name": "Music Player",
-      "liveUrl": "https://music-demo.vercel.app",
-      "repoUrl": "https://github.com/username/music-player",
-      "description": "Web music player with playlists"
-    },
-    {
-      "name": "Fitness Tracker",
-      "liveUrl": "https://fitness-demo.netlify.app",
-      "repoUrl": "https://github.com/username/fitness-tracker",
-      "description": "Track workouts and fitness goals"
-    },
-    {
-      "name": "Portfolio CMS",
-      "liveUrl": "https://cms-demo.vercel.app",
-      "repoUrl": "https://github.com/username/portfolio-cms",
-      "description": "Headless CMS for managing portfolio projects"
-    },
-    {
-      "name": "Collaboration Board",
-      "liveUrl": "https://board-demo.vercel.app",
-      "repoUrl": "https://github.com/username/collab-board",
-      "description": "Real-time collaboration whiteboard"
-    },
-    {
-      "name": "Markdown Editor",
-      "liveUrl": "https://editor-demo.netlify.app",
-      "repoUrl": "https://github.com/username/markdown-editor",
-      "description": "Rich markdown editor with preview"
-    },
-    {
-      "name": "Job Board",
-      "liveUrl": "https://jobs-demo.vercel.app",
-      "repoUrl": "https://github.com/username/job-board",
-      "description": "Job listings app with filters and search"
-    },
-    {
-      "name": "Travel Planner",
-      "liveUrl": "https://travel-demo.vercel.app",
-      "repoUrl": "https://github.com/username/travel-planner",
-      "description": "Plan trips with itinerary and maps integration"
+      "name": "Bookworm ",
+      "liveUrl": "https://waggish-judge.surge.sh",
+      "repoUrl": "https://github.com/dev-rashedin/React-Bookworm-Project",
+      "description": "A simple online bookstore website built with React"
     }
   ]
 }

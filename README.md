@@ -16,18 +16,6 @@
 | SuiteTrack              | [Live](https://suite-track.vercel.app)       | [Repo](https://github.com/dev-rashedin/SuiteTrack-Project)       | A hotel management platform built using Next.js. A Group Project of 5                        |
 | Craft Canvas      | [Live](https://a10-assignment-project.web.app)      | [Repo](https://github.com/dev-rashedin/A10-Craft-Canvas-Client)      | An art and craft website built with the MERN Stack                          |
 | Relux.com     | [Live](https://a9-real-estate-9f975.web.app)   | [Repo](https://github.com/dev-rashedin/RealState-Assignment-A9)    | A simple real estate website built with React and Firebase                |
-| Recipe Finder         | [Live](https://recipes-demo.vercel.app)    | [Repo](https://github.com/username/recipe-finder)  | Search recipes by ingredients                             |
-| URL Shortener         | [Live](https://short-url-demo.netlify.app) | [Repo](https://github.com/username/url-shortener)  | Shorten and manage URLs with analytics                    |
-| Notes App             | [Live](https://notes-demo.vercel.app)      | [Repo](https://github.com/username/notes-app)      | Markdown notes with local storage                         |
-| Finance Tracker       | [Live](https://finance-demo.vercel.app)    | [Repo](https://github.com/username/finance-tracker)| Track expenses and income with charts                     |
-| Movie Explorer        | [Live](https://movies-demo.vercel.app)     | [Repo](https://github.com/username/movie-explorer) | Browse and search movies from TMDB API                    |
-| Quiz App              | [Live](https://quiz-demo.netlify.app)      | [Repo](https://github.com/username/quiz-app)       | Interactive quiz game with leaderboard                    |
-| Music Player          | [Live](https://music-demo.vercel.app)      | [Repo](https://github.com/username/music-player)   | Web music player with playlists                           |
-| Fitness Tracker       | [Live](https://fitness-demo.netlify.app)   | [Repo](https://github.com/username/fitness-tracker)| Track workouts and fitness goals                          |
-| Portfolio CMS         | [Live](https://cms-demo.vercel.app)        | [Repo](https://github.com/username/portfolio-cms)  | Headless CMS for managing portfolio projects              |
-| Collaboration Board   | [Live](https://board-demo.vercel.app)      | [Repo](https://github.com/username/collab-board)   | Real-time collaboration whiteboard                        |
-| Markdown Editor       | [Live](https://editor-demo.netlify.app)    | [Repo](https://github.com/username/markdown-editor)| Rich markdown editor with preview                         |
-| Job Board             | [Live](https://jobs-demo.vercel.app)       | [Repo](https://github.com/username/job-board)      | Job listings app with filters and search                  |
-| Travel Planner        | [Live](https://travel-demo.vercel.app)     | [Repo](https://github.com/username/travel-planner) | Plan trips with itinerary and maps integration            |
+| Bookworm         | [Live](https://waggish-judge.surge.sh)    | [Repo](https://github.com/dev-rashedin/React-Bookworm-Project)  | A simple online bookstore website built with React                             |
 
 ---
