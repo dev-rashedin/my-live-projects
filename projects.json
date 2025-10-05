@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "name": "Servest",
+      "liveUrl": "https://servest.vercel.app",
+      "repoUrl": "https://github.com/dev-rashedin/servest",
+      "description": "Backend starter and addons generator built with Node.js and Next.js"
+    },
+    {
       "name": "DevScribe-AI",
       "liveUrl": "https://devscribe-ai.vercel.app",
       "repoUrl": "https://github.com/dev-rashedin/devScribe-ai",

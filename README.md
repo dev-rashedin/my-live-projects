@@ -9,6 +9,7 @@
 
 | Name              | Live URL                                  | GitHub Repo                                       | Description                          |
 |-------------------|:-----------------------------------------:|:-------------------------------------------------:|--------------------------------------|
+| Servest     | [Live](https://servest.vercel.app)  | [Repo](https://github.com/dev-rashedin/servest)      | Backend starter and addons generator built with Node.js and Next.js    |
 | DevScribe-AI     | [Live](https://devscribe-ai.vercel.app)  | [Repo](https://github.com/dev-rashedin/devScribe-ai)      | AI Service Provider built with React 19 and Nebius Studio    |
 | Tech Insight           | [Live](https://tech-insights-d2159.web.app/)    | [Repo](https://github.com/dev-rashedin/techInsights-Project)    | A Tech News platform built using MERN Stack               |
 | ByteBlog         | [Live](https://byteblog-da679.web.app)       | [Repo](https://github.com/dev-rashedin/ByteBlog-Client-Side)  | Tech related blog website built using MERN Stack                     |
