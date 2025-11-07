@@ -1,4 +1,4 @@
-# 🖥️ Rashedin's Future-Proof Dev Workstation (2025)
+# 🖥️ My Future-Proof Dev Workstation (2025)
 
 **Target budget:** ৳77,000 – ৳79,000 BDT (~$630–$640)  
 **OS:** Dual boot Windows + Linux (WSL2 / Ubuntu)  

@@ -53,6 +53,12 @@
       "liveUrl": "https://waggish-judge.surge.sh",
       "repoUrl": "https://github.com/dev-rashedin/React-Bookworm-Project",
       "description": "A simple online bookstore website built with React"
+    },
+    {
+      "name": "Learn Japanese",
+      "liveUrl": "https://learjapaneese.web.app",
+      "repoUrl": "https://github.com/dev-rashedin/learn-japanese-app-client",
+      "description": "A japanese language learning website built with React, Node.js, express.js and MongoDB"
     }
   ]
 }
