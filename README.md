@@ -18,5 +18,6 @@
 | Craft Canvas      | [Live](https://a10-assignment-project.web.app)      | [Repo](https://github.com/dev-rashedin/A10-Craft-Canvas-Client)      | An art and craft website built with the MERN Stack                          |
 | Relux.com     | [Live](https://a9-real-estate-9f975.web.app)   | [Repo](https://github.com/dev-rashedin/RealState-Assignment-A9)    | A simple real estate website built with React and Firebase                |
 | Bookworm         | [Live](https://waggish-judge.surge.sh)    | [Repo](https://github.com/dev-rashedin/React-Bookworm-Project)  | A simple online bookstore website built with React                             |
+| Learn Japanese         | [Live](https://learjapaneese.web.app)    | [Repo](https://github.com/dev-rashedin/learn-japanese-app-client)  | A japanese language learning website built with React, Node.js, express.js and MongoDB                             |
 
 ---

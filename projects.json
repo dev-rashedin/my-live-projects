@@ -1,60 +1,70 @@
 {
   "projects": [
     {
+      "project_id": 1,
       "name": "Servest",
       "liveUrl": "https://servest.vercel.app",
       "repoUrl": "https://github.com/dev-rashedin/servest",
       "description": "Backend starter and addons generator built with Node.js and Next.js"
     },
     {
+      "project_id": 2,
       "name": "DevScribe-AI",
       "liveUrl": "https://devscribe-ai.vercel.app",
       "repoUrl": "https://github.com/dev-rashedin/devScribe-ai",
       "description": "AI Service Provider built with React 19 and Nebius Studio"
     },
     {
+      "project_id": 3,
       "name": "Tech Insight",
       "liveUrl": "https://tech-insights-d2159.web.app",
       "repoUrl": "https://github.com/dev-rashedin/techInsights-Project",
       "description": "A Tech News platform built using MERN Stack"
     },
     {
+      "project_id": 4,
       "name": "ByteBlog ",
       "liveUrl": "https://byteblog-da679.web.app",
       "repoUrl": "https://github.com/dev-rashedin/ByteBlog-Client-Side",
       "description": "Tech related blog website built using MERN Stack"
     },
     {
+      "project_id": 5,
       "name": "DriveSpace",
       "liveUrl": "https://drivespace.vercel.app",
       "repoUrl": "https://github.com/dev-rashedin/DriveSpace",
       "description": "full-stack cloud storage app with Next.js and Appwrite. Secure file upload and management."
     },
     {
+      "project_id": 6,
       "name": "SuiteTrack",
       "liveUrl": "https://suite-track.vercel.app",
       "repoUrl": "https://github.com/dev-rashedin/SuiteTrack-Project",
       "description": "A hotel management platform built using Next.js. A Group Project of 5"
     },
     {
+      "project_id": 7,
       "name": "Craft Canvas",
       "liveUrl": "https://a10-assignment-project.web.app",
       "repoUrl": "https://github.com/dev-rashedin/A10-Craft-Canvas-Client",
       "description": "An art and craft website built with the MERN Stack"
     },
     {
+      "project_id": 8,
       "name": "Relux.com",
       "liveUrl": "https://a9-real-estate-9f975.web.app/",
       "repoUrl": "https://github.com/dev-rashedin/RealState-Assignment-A9",
       "description": "A simple real estate website built with React and Firebase"
     },
     {
+      "project_id": 9,
       "name": "Bookworm ",
       "liveUrl": "https://waggish-judge.surge.sh",
       "repoUrl": "https://github.com/dev-rashedin/React-Bookworm-Project",
       "description": "A simple online bookstore website built with React"
     },
     {
+      "project_id": 10,
       "name": "Learn Japanese",
       "liveUrl": "https://learjapaneese.web.app",
       "repoUrl": "https://github.com/dev-rashedin/learn-japanese-app-client",
