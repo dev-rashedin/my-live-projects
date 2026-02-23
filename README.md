@@ -19,5 +19,6 @@
 | Relux.com     | [Live](https://a9-real-estate-9f975.web.app)   | [Repo](https://github.com/dev-rashedin/RealState-Assignment-A9)    | A simple real estate website built with React and Firebase                |
 | Bookworm         | [Live](https://waggish-judge.surge.sh)    | [Repo](https://github.com/dev-rashedin/React-Bookworm-Project)  | A simple online bookstore website built with React                             |
 | Learn Japanese         | [Live](https://learjapaneese.web.app)    | [Repo](https://github.com/dev-rashedin/learn-japanese-app-client)  | A japanese language learning website built with React, Node.js, express.js and MongoDB                             |
+| Aivinn Website        | [Live](https://aivinn.vercel.app)    | [Repo]()  | Aivinn Company Website built with Next.js, Tailwind CSS, Motion, Prisma ORM and PostgreSQL                             |
 
 ---

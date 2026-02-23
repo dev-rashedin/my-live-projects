@@ -69,6 +69,13 @@
       "liveUrl": "https://learjapaneese.web.app",
       "repoUrl": "https://github.com/dev-rashedin/learn-japanese-app-client",
       "description": "A japanese language learning website built with React, Node.js, express.js and MongoDB"
+    },
+     {
+      "project_id": 11,
+      "name": "Aivinn Website",
+      "liveUrl": "https://aivinn.vercel.app",
+      "repoUrl": "Private",
+      "description": "Aivinn Company Website built with Next.js, Tailwind CSS, Motion, Prisma ORM and PostgreSQL"
     }
   ]
 }
